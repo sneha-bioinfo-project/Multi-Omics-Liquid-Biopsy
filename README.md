@@ -40,8 +40,5 @@ The signature is supported by coordinated alterations across the central dogma:
 * **ML & Stats:** Composite Scoring, Cox Proportional Hazards, Kaplan-Meier Analysis.
 * **External Validation:** Rigorous testing against the **TCGA-LUAD** cohort ($n = 601$).
 
-## 📁 Repository Contents
-* `figures/`: Anonymized high-resolution UMAPs, Volcano plots, and ROC Curves.
-* `tables/`: Comprehensive DEG lists and mutation density profiles.
 
 
