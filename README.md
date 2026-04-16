@@ -44,6 +44,4 @@ The signature is supported by coordinated alterations across the central dogma:
 * `figures/`: Anonymized high-resolution UMAPs, Volcano plots, and ROC Curves.
 * `tables/`: Comprehensive DEG lists and mutation density profiles.
 
-## 🤝 Professional Contact
-For technical inquiries regarding the multi-omics integration framework or collaboration:
-**[Your Name]** | [Your LinkedIn Link] | [Your Email]
+
